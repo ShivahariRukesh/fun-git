@@ -1,11 +1,6 @@
 lets go party tonight.
 yes so let's dance breakingly bad
 
-<<<<<<< HEAD
-
-
 
 This is the changes I want in rem3txt from main branch
-=======
 this is the changes made in newBranch
->>>>>>> newBranch
